@@ -1,0 +1,30 @@
+C:\Users\maxko\SC\DZ7\h_task1_v3\bin\Debug\net6.0\h_task1_v3.exe
+C:\Users\maxko\SC\DZ7\h_task1_v3\bin\Debug\net6.0\h_task1_v3.deps.json
+C:\Users\maxko\SC\DZ7\h_task1_v3\bin\Debug\net6.0\h_task1_v3.runtimeconfig.json
+C:\Users\maxko\SC\DZ7\h_task1_v3\bin\Debug\net6.0\h_task1_v3.dll
+C:\Users\maxko\SC\DZ7\h_task1_v3\bin\Debug\net6.0\h_task1_v3.pdb
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.csproj.AssemblyReference.cache
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.AssemblyInfoInputs.cache
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.AssemblyInfo.cs
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.csproj.CoreCompileInputs.cache
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.dll
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\refint\h_task1_v3.dll
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.pdb
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\h_task1_v3.genruntimeconfig.cache
+C:\Users\maxko\SC\DZ7\h_task1_v3\obj\Debug\net6.0\ref\h_task1_v3.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\bin\Debug\net6.0\h_task1_v3.exe
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\bin\Debug\net6.0\h_task1_v3.deps.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\bin\Debug\net6.0\h_task1_v3.runtimeconfig.json
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\bin\Debug\net6.0\h_task1_v3.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\bin\Debug\net6.0\h_task1_v3.pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.csproj.AssemblyReference.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.AssemblyInfoInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.AssemblyInfo.cs
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.csproj.CoreCompileInputs.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\refint\h_task1_v3.dll
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.pdb
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\h_task1_v3.genruntimeconfig.cache
+C:\Users\renek\OneDrive\Рабочий стол\DZ7\h_task1_v2\obj\Debug\net6.0\ref\h_task1_v3.dll
